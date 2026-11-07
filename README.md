@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Charlie Capretta 👋
 
-<!--
-**charliecapretta/charliecapretta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Data Science and Computer Science student at Georgia College & State University
 
-Here are some ideas to get you started:
+I am a former College Baseball Player ([9 ERA](https://gcsubobcats.com/sports/baseball/roster/charlie-capretta/3750)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- ⚾ Baseball analytics: computer vision for pitcher mechanics
+- 🤖 AI agents: local LLMs and multi-agent systems
+- 📈 Fintech: governed, explainable AI decision-making
+
+📫 Reach me: [charliecapretta@gmail.com] · [LinkedIn](https://www.linkedin.com/in/charles-capretta/)
+
+🚀 Recent Projects
+[ArmAngleCV]
+
+Web app that estimates a pitcher's release arm angle from MLB broadcast video. Python scikit-learn Flask JavaScript AWS
+
+[GClifts]
+
+Students-only ride-share MVP with automatic driver matching and driver payment-preference logging. Built for the AWS for Social Good Codeathon using Kiro. AWS Kiro
+
+[GovernTrade AI]
+
+Fintech prototype where AI trading agents propose prediction-market trades that must pass a governor: edge checks, per-trade and daily limits, and human approval before execution. Python JavaScript AI Agents
