@@ -1,4 +1,4 @@
-Hi, I'm Charlie Capretta 👋
+# Hi, I'm Charlie Capretta 👋
 
 University of Georgia Class of 28
 
