@@ -2,7 +2,7 @@ Hi, I'm Charlie Capretta 👋
 
 Software Data Science and Computer Science student at Georgia College & State University
 
-I am a former College Baseball Player ([9 ERA](https://gcsubobcats.com/sports/baseball/roster/charlie-capretta/3750)
+I am a former College Baseball Player ([9 ERA](https://gcsubobcats.com/sports/baseball/roster/charlie-capretta/3750))
 
 ## Interests
 - ⚾ Baseball analytics: computer vision for pitcher mechanics
