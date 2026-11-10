@@ -4,7 +4,7 @@ University of Georgia Class of 28
 
 Data Science and Computer Science major
 
-former College Baseball Player ([9 ERA](https://gcsubobcats.com/sports/baseball/roster/charlie-capretta/3750))
+Former College Baseball Player ([9 ERA](https://gcsubobcats.com/sports/baseball/roster/charlie-capretta/3750))
 
 ## Interests
 - ⚾ Baseball analytics: computer vision for pitcher mechanics
